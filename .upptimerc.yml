@@ -24,11 +24,11 @@ sites:
     url: https://api.openupm.com/packages/com.littlebigfun.addressable-importer
   - name: "[Global] OpenUPM Registry /-/all"
     url: https://package.openupm.com/-/all
-  - name: "[Global] OpenUPM Registry /<package-name>"
+  - name: "[Global] OpenUPM Registry /package-name"
     url: https://package.openupm.com/com.littlebigfun.addressable-importer
   - name: "[Global] OpenUPM Registry Fetch a Tarball"
     url: https://package.openupm.com:443/com.littlebigfun.addressable-importer/-/com.littlebigfun.addressable-importer-0.9.3.tgz
-  - name: "[Global] Unity Registry /<package-name>"
+  - name: "[Global] Unity Registry /package-name"
     url: https://packages.unity.com/com.unity.addressables
   - name: "[CN] OpenUPM Website"
     url: https://openupm.cn
@@ -46,19 +46,15 @@ sites:
     url: https://api.openupm.cn/packages/recent
   - name: "[CN] OpenUPM API /feeds/updates/rss"
     url: https://api.openupm.cn/feeds/updates/rss
-  - name: "[CN] OpenUPM API /packages/<package-name>"
+  - name: "[CN] OpenUPM API /packages/package-name"
     url: https://api.openupm.cn/packages/com.littlebigfun.addressable-importer
-  - name: "[CN] OpenUPM Registry"
-    url: https://package.openupm.cn/
   - name: "[CN] OpenUPM Registry /-/all"
     url: https://package.openupm.cn/-/all
-  - name: "[CN] OpenUPM Registry /<package-name>"
+  - name: "[CN] OpenUPM Registry /package-name"
     url: https://package.openupm.cn/com.littlebigfun.addressable-importer
   - name: "[CN] OpenUPM Registry Fetch a Tarball"
     url: https://package.openupm.cn/com.littlebigfun.addressable-importer/-/com.littlebigfun.addressable-importer-0.9.3.tgz
-  - name: "[CN] Unity Registry"
-    url: https://packages.unity.cn/
-  - name: "[CN] Unity Registry /<package-name>"
+  - name: "[CN] Unity Registry /package-name"
     url: https://packages.unity.cn/com.unity.addressables
 
 status-website:
