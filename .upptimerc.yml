@@ -20,7 +20,7 @@ sites:
     url: https://api.openupm.com/packages/recent
   - name: "[Global] OpenUPM API /feeds/updates/rss"
     url: https://api.openupm.com/feeds/updates/rss
-  - name: "[Global] OpenUPM API /packages/<package-name>"
+  - name: "[Global] OpenUPM API /packages/package-name"
     url: https://api.openupm.com/packages/com.littlebigfun.addressable-importer
   - name: "[Global] OpenUPM Registry /-/all"
     url: https://package.openupm.com/-/all
