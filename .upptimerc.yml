@@ -64,7 +64,7 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://github.com/openupm.png?size=128
   name: OpenUPM Status
-  introTitle: "\U0001F4B9 Uptime monitor and status page for OpenUPM"
+  introTitle: "Uptime monitor and status page for OpenUPM"
   introMessage: Powered by [@upptime](https://github.com/upptime/upptime)
   navbar:
     - title: Status
