@@ -454,19 +454,19 @@
     "url": "https://packages.unity.cn/com.unity.addressables",
     "icon": "https://favicons.githubusercontent.com/packages.unity.cn",
     "slug": "cn-unity-registry-package-name",
-    "status": "down",
-    "uptime": "94.10%",
-    "uptimeDay": "94.10%",
-    "uptimeWeek": "94.10%",
-    "uptimeMonth": "94.10%",
-    "uptimeYear": "94.10%",
-    "time": 2311,
-    "timeDay": 2311,
-    "timeWeek": 2311,
-    "timeMonth": 2311,
-    "timeYear": 2311,
+    "status": "up",
+    "uptime": "92.85%",
+    "uptimeDay": "92.85%",
+    "uptimeWeek": "92.85%",
+    "uptimeMonth": "92.85%",
+    "uptimeYear": "92.85%",
+    "time": 2215,
+    "timeDay": 2215,
+    "timeWeek": 2215,
+    "timeMonth": 2215,
+    "timeYear": 2215,
     "dailyMinutesDown": {
-      "2020-12-13": 25
+      "2020-12-13": 31
     }
   }
 ]
