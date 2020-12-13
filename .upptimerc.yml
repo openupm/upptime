@@ -22,16 +22,12 @@ sites:
     url: https://api.openupm.com/feeds/updates/rss
   - name: "[Global] OpenUPM API /packages/<package-name>"
     url: https://api.openupm.com/packages/com.littlebigfun.addressable-importer
-  - name: "[Global] OpenUPM Registry"
-    url: https://package.openupm.com/
   - name: "[Global] OpenUPM Registry /-/all"
     url: https://package.openupm.com/-/all
   - name: "[Global] OpenUPM Registry /<package-name>"
     url: https://package.openupm.com/com.littlebigfun.addressable-importer
   - name: "[Global] OpenUPM Registry Fetch a Tarball"
     url: https://package.openupm.com:443/com.littlebigfun.addressable-importer/-/com.littlebigfun.addressable-importer-0.9.3.tgz
-  - name: "[Global] Unity Registry"
-    url: https://packages.unity.com/
   - name: "[Global] Unity Registry /<package-name>"
     url: https://packages.unity.com/com.unity.addressables
   - name: "[CN] OpenUPM Website"
