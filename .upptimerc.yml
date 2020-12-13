@@ -4,65 +4,65 @@ repo: upptime # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: [Global] OpenUPM Website
+  - name: "[Global] OpenUPM Website"
     url: https://openupm.com
-  - name: [Global] OpenUPM Website Docs
+  - name: "[Global] OpenUPM Website Docs"
     url: https://openupm.com/docs/
-  - name: [Global] OpenUPM Website Packages
+  - name: "[Global] OpenUPM Website Packages"
     url: https://openupm.com/packages/
-  - name: [Global] OpenUPM Website Package Detail
+  - name: "[Global] OpenUPM Website Package Detail"
     url: https://openupm.com/packages/com.littlebigfun.addressable-importer/
-  - name: [Global] OpenUPM API /site/info
+  - name: "[Global] OpenUPM API /site/info"
     url: https://api.openupm.com/site/info
-  - name: [Global] OpenUPM API /packages/extra
+  - name: "[Global] OpenUPM API /packages/extra"
     url: https://api.openupm.com/packages/extra
-  - name: [Global] OpenUPM API /packages/recent
+  - name: "[Global] OpenUPM API /packages/recent"
     url: https://api.openupm.com/packages/recent
-  - name: [Global] OpenUPM API /feeds/updates/rss
+  - name: "[Global] OpenUPM API /feeds/updates/rss"
     url: https://api.openupm.com/feeds/updates/rss
-  - name: [Global] OpenUPM API /packages/<package-name>
+  - name: "[Global] OpenUPM API /packages/<package-name>"
     url: https://api.openupm.com/packages/com.littlebigfun.addressable-importer
-  - name: [Global] OpenUPM Registry
+  - name: "[Global] OpenUPM Registry"
     url: https://package.openupm.com/
-  - name: [Global] OpenUPM Registry /-/all
+  - name: "[Global] OpenUPM Registry /-/all"
     url: https://package.openupm.com/-/all
-  - name: [Global] OpenUPM Registry /<package-name>
+  - name: "[Global] OpenUPM Registry /<package-name>"
     url: https://package.openupm.com/com.littlebigfun.addressable-importer
-  - name: [Global] OpenUPM Registry Fetch a Tarball
+  - name: "[Global] OpenUPM Registry Fetch a Tarball"
     url: https://package.openupm.com:443/com.littlebigfun.addressable-importer/-/com.littlebigfun.addressable-importer-0.9.3.tgz
-  - name: [Global] Unity Registry
+  - name: "[Global] Unity Registry"
     url: https://packages.unity.com/
-  - name: [Global] Unity Registry /<package-name>
+  - name: "[Global] Unity Registry /<package-name>"
     url: https://packages.unity.com/com.unity.addressables
-  - name: [CN] OpenUPM Website
+  - name: "[CN] OpenUPM Website"
     url: https://openupm.cn
-  - name: [CN] OpenUPM Website Docs
+  - name: "[CN] OpenUPM Website Docs"
     url: https://openupm.cn/docs/
-  - name: [CN] OpenUPM Website Packages
+  - name: "[CN] OpenUPM Website Packages"
     url: https://openupm.cn/packages/
-  - name: [CN] OpenUPM Website Package Detail
+  - name: "[CN] OpenUPM Website Package Detail"
     url: https://openupm.cn/packages/com.littlebigfun.addressable-importer/
-  - name: [CN] OpenUPM API /site/info
+  - name: "[CN] OpenUPM API /site/info"
     url: https://api.openupm.cn/site/info
-  - name: [CN] OpenUPM API /packages/extra
+  - name: "[CN] OpenUPM API /packages/extra"
     url: https://api.openupm.cn/packages/extra
-  - name: [CN] OpenUPM API /packages/recent
+  - name: "[CN] OpenUPM API /packages/recent"
     url: https://api.openupm.cn/packages/recent
-  - name: [CN] OpenUPM API /feeds/updates/rss
+  - name: "[CN] OpenUPM API /feeds/updates/rss"
     url: https://api.openupm.cn/feeds/updates/rss
-  - name: [CN] OpenUPM API /packages/<package-name>
+  - name: "[CN] OpenUPM API /packages/<package-name>"
     url: https://api.openupm.cn/packages/com.littlebigfun.addressable-importer
-  - name: [CN] OpenUPM Registry
+  - name: "[CN] OpenUPM Registry"
     url: https://package.openupm.cn/
-  - name: [CN] OpenUPM Registry /-/all
+  - name: "[CN] OpenUPM Registry /-/all"
     url: https://package.openupm.cn/-/all
-  - name: [CN] OpenUPM Registry /<package-name>
+  - name: "[CN] OpenUPM Registry /<package-name>"
     url: https://package.openupm.cn/com.littlebigfun.addressable-importer
-  - name: [CN] OpenUPM Registry Fetch a Tarball
+  - name: "[CN] OpenUPM Registry Fetch a Tarball"
     url: https://package.openupm.cn/com.littlebigfun.addressable-importer/-/com.littlebigfun.addressable-importer-0.9.3.tgz
-  - name: [CN] Unity Registry
+  - name: "[CN] Unity Registry"
     url: https://packages.unity.cn/
-  - name: [CN] Unity Registry /<package-name>
+  - name: "[CN] Unity Registry /<package-name>"
     url: https://packages.unity.cn/com.unity.addressables
 
 status-website:
@@ -72,7 +72,7 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://github.com/openupm.png?size=128
   name: OpenUPM Status
-  introTitle: "📈 Uptime monitor and status page for OpenUPM"
+  introTitle: "\U0001F4B9 Uptime monitor and status page for OpenUPM"
   introMessage: Powered by [@upptime](https://github.com/upptime/upptime)
   navbar:
     - title: Status
