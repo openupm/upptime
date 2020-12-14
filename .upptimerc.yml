@@ -54,9 +54,6 @@ sites:
     url: https://package.openupm.cn/com.littlebigfun.addressable-importer
   - name: "[CN] OpenUPM Registry Fetch a Tarball"
     url: https://package.openupm.cn/com.littlebigfun.addressable-importer/-/com.littlebigfun.addressable-importer-0.9.3.tgz
-  - name: "[CN] Unity Registry /package-name"
-    url: https://packages.unity.cn/com.unity.addressables
-    maxResponseTime: 60000
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
