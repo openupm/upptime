@@ -202,18 +202,20 @@
     "url": "https://package.openupm.com:443/com.littlebigfun.addressable-importer/-/com.littlebigfun.addressable-importer-0.9.3.tgz",
     "icon": "https://favicons.githubusercontent.com/package.openupm.com",
     "slug": "global-open-upm-registry-fetch-a-tarball",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 9592,
     "timeDay": 7373,
     "timeWeek": 9592,
     "timeMonth": 9592,
     "timeYear": 9592,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2020-12-14": 1
+    }
   },
   {
     "name": "[Global] Unity Registry /package-name",
