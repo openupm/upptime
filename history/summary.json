@@ -240,10 +240,10 @@
     "url": "https://openupm.cn",
     "icon": "https://favicons.githubusercontent.com/openupm.cn",
     "slug": "cn-open-upm-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3996,
@@ -251,7 +251,9 @@
     "timeWeek": 5244,
     "timeMonth": 3728,
     "timeYear": 3996,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-26": 1
+    }
   },
   {
     "name": "[CN] OpenUPM Website Docs",
@@ -441,7 +443,7 @@
     "status": "up",
     "uptime": "99.70%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.74%",
+    "uptimeWeek": "99.09%",
     "uptimeMonth": "99.57%",
     "uptimeYear": "99.70%",
     "time": 4837,
