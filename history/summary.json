@@ -440,9 +440,9 @@
     "url": "https://package.openupm.cn/com.littlebigfun.addressable-importer/-/com.littlebigfun.addressable-importer-0.9.3.tgz",
     "icon": "https://favicons.githubusercontent.com/package.openupm.cn",
     "slug": "cn-open-upm-registry-fetch-a-tarball",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.57%",
     "uptimeYear": "99.72%",
@@ -452,6 +452,7 @@
     "timeMonth": 5273,
     "timeYear": 4762,
     "dailyMinutesDown": {
+      "2021-01-29": 0,
       "2021-01-21": 85,
       "2021-01-19": 41,
       "2021-01-18": 62
