@@ -368,10 +368,10 @@
     "url": "https://api.openupm.cn/feeds/updates/rss",
     "icon": "https://favicons.githubusercontent.com/api.openupm.cn",
     "slug": "cn-open-upm-api-feeds-updates-rss",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 356,
@@ -379,7 +379,9 @@
     "timeWeek": 258,
     "timeMonth": 431,
     "timeYear": 356,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-30": 1
+    }
   },
   {
     "name": "[CN] OpenUPM API /packages/package-name",
