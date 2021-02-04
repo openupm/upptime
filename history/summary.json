@@ -429,19 +429,19 @@
     "url": "https://package.openupm.cn/com.littlebigfun.addressable-importer",
     "icon": "https://favicons.githubusercontent.com/package.openupm.cn",
     "slug": "cn-open-upm-registry-package-name",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 336,
-    "timeDay": 274,
-    "timeWeek": 284,
-    "timeMonth": 406,
-    "timeYear": 336,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 348,
+    "timeDay": 666,
+    "timeWeek": 380,
+    "timeMonth": 426,
+    "timeYear": 348,
     "dailyMinutesDown": {
-      "2021-02-04": 2
+      "2021-02-04": 11
     }
   },
   {
