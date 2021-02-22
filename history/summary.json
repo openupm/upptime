@@ -76,10 +76,10 @@
     "url": "https://api.openupm.com/site/info",
     "icon": "https://favicons.githubusercontent.com/api.openupm.com",
     "slug": "global-open-upm-api-site-info",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 327,
@@ -87,17 +87,19 @@
     "timeWeek": 320,
     "timeMonth": 324,
     "timeYear": 327,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-22": 1
+    }
   },
   {
     "name": "[Global] OpenUPM API /packages/extra",
     "url": "https://api.openupm.com/packages/extra",
     "icon": "https://favicons.githubusercontent.com/api.openupm.com",
     "slug": "global-open-upm-api-packages-extra",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 306,
@@ -105,7 +107,9 @@
     "timeWeek": 306,
     "timeMonth": 302,
     "timeYear": 306,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-22": 1
+    }
   },
   {
     "name": "[Global] OpenUPM API /packages/recent",
@@ -243,12 +247,12 @@
     "status": "up",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.95%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.96%",
     "time": 3763,
     "timeDay": 3014,
-    "timeWeek": 3155,
+    "timeWeek": 3194,
     "timeMonth": 3357,
     "timeYear": 3763,
     "dailyMinutesDown": {
@@ -464,11 +468,11 @@
     "icon": "https://favicons.githubusercontent.com/package.openupm.cn",
     "slug": "cn-open-upm-registry-fetch-a-tarball",
     "status": "up",
-    "uptime": "99.63%",
+    "uptime": "99.64%",
     "uptimeDay": "99.79%",
     "uptimeWeek": "98.73%",
     "uptimeMonth": "99.57%",
-    "uptimeYear": "99.63%",
+    "uptimeYear": "99.64%",
     "time": 4724,
     "timeDay": 3143,
     "timeWeek": 3924,
