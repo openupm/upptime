@@ -292,10 +292,10 @@
     "url": "https://openupm.cn/packages/",
     "icon": "https://favicons.githubusercontent.com/openupm.cn",
     "slug": "cn-open-upm-website-packages",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 327,
@@ -303,7 +303,9 @@
     "timeWeek": 318,
     "timeMonth": 345,
     "timeYear": 327,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-04-23": 1
+    }
   },
   {
     "name": "[CN] OpenUPM Website Package Detail",
