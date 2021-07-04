@@ -259,10 +259,10 @@
     "url": "https://openupm.cn",
     "icon": "https://favicons.githubusercontent.com/openupm.cn",
     "slug": "cn-open-upm-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.74%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.73%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
     "time": 3284,
@@ -271,6 +271,7 @@
     "timeMonth": 2972,
     "timeYear": 3284,
     "dailyMinutesDown": {
+      "2021-07-04": 2,
       "2021-06-28": 26,
       "2021-05-06": 6,
       "2021-02-15": 5,
@@ -283,10 +284,10 @@
     "url": "https://openupm.cn/docs/",
     "icon": "https://favicons.githubusercontent.com/openupm.cn",
     "slug": "cn-open-upm-website-docs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 481,
@@ -295,6 +296,7 @@
     "timeMonth": 440,
     "timeYear": 481,
     "dailyMinutesDown": {
+      "2021-07-04": 1,
       "2021-05-06": 5
     }
   },
