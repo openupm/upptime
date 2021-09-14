@@ -4,10 +4,10 @@
     "url": "https://openupm.com",
     "icon": "https://favicons.githubusercontent.com/openupm.com",
     "slug": "global-open-upm-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 325,
@@ -15,7 +15,9 @@
     "timeWeek": 161,
     "timeMonth": 296,
     "timeYear": 325,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-14": 1
+    }
   },
   {
     "name": "[Global] OpenUPM Website Docs",
@@ -268,12 +270,12 @@
     "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.65%",
+    "uptimeMonth": "99.66%",
     "uptimeYear": "99.92%",
     "time": 3300,
     "timeDay": 2417,
     "timeWeek": 2797,
-    "timeMonth": 3294,
+    "timeMonth": 3116,
     "timeYear": 3300,
     "dailyMinutesDown": {
       "2021-08-30": 33,
