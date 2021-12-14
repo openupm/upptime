@@ -76,11 +76,11 @@
     "url": "https://api.openupm.com/site/info",
     "icon": "https://favicons.githubusercontent.com/api.openupm.com",
     "slug": "global-open-upm-api-site-info",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.71%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 295,
     "timeDay": 115,
@@ -88,6 +88,7 @@
     "timeMonth": 260,
     "timeYear": 295,
     "dailyMinutesDown": {
+      "2021-12-14": 4,
       "2021-03-09": 42,
       "2021-02-22": 8
     }
@@ -97,11 +98,11 @@
     "url": "https://api.openupm.com/packages/extra",
     "icon": "https://favicons.githubusercontent.com/api.openupm.com",
     "slug": "global-open-upm-api-packages-extra",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 304,
     "timeDay": 130,
@@ -109,6 +110,7 @@
     "timeMonth": 314,
     "timeYear": 303,
     "dailyMinutesDown": {
+      "2021-12-14": 4,
       "2021-03-09": 41,
       "2021-02-22": 7
     }
@@ -118,11 +120,11 @@
     "url": "https://api.openupm.com/packages/recent",
     "icon": "https://favicons.githubusercontent.com/api.openupm.com",
     "slug": "global-open-upm-api-packages-recent",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 61,
     "timeDay": 28,
@@ -130,6 +132,7 @@
     "timeMonth": 57,
     "timeYear": 61,
     "dailyMinutesDown": {
+      "2021-12-14": 3,
       "2021-03-09": 39
     }
   },
@@ -138,11 +141,11 @@
     "url": "https://api.openupm.com/feeds/updates/rss",
     "icon": "https://favicons.githubusercontent.com/api.openupm.com",
     "slug": "global-open-upm-api-feeds-updates-rss",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 64,
     "timeDay": 28,
@@ -150,6 +153,7 @@
     "timeMonth": 58,
     "timeYear": 64,
     "dailyMinutesDown": {
+      "2021-12-14": 3,
       "2021-03-09": 38
     }
   },
@@ -158,11 +162,11 @@
     "url": "https://api.openupm.com/packages/com.littlebigfun.addressable-importer",
     "icon": "https://favicons.githubusercontent.com/api.openupm.com",
     "slug": "global-open-upm-api-packages-package-name",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 63,
     "timeDay": 31,
@@ -170,6 +174,7 @@
     "timeMonth": 59,
     "timeYear": 63,
     "dailyMinutesDown": {
+      "2021-12-14": 2,
       "2021-03-09": 36
     }
   },
@@ -178,10 +183,10 @@
     "url": "https://package.openupm.com/-/all",
     "icon": "https://favicons.githubusercontent.com/package.openupm.com",
     "slug": "global-open-upm-registry-all",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1066,
@@ -190,6 +195,7 @@
     "timeMonth": 1238,
     "timeYear": 1072,
     "dailyMinutesDown": {
+      "2021-12-14": 2,
       "2021-08-22": 5,
       "2021-04-28": 32
     }
@@ -199,10 +205,10 @@
     "url": "https://package.openupm.com/com.littlebigfun.addressable-importer",
     "icon": "https://favicons.githubusercontent.com/package.openupm.com",
     "slug": "global-open-upm-registry-package-name",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 123,
@@ -211,6 +217,7 @@
     "timeMonth": 147,
     "timeYear": 124,
     "dailyMinutesDown": {
+      "2021-12-14": 1,
       "2021-04-28": 32
     }
   },
@@ -219,10 +226,10 @@
     "url": "https://package.openupm.com:443/com.littlebigfun.addressable-importer/-/com.littlebigfun.addressable-importer-0.9.3.tgz",
     "icon": "https://favicons.githubusercontent.com/package.openupm.com",
     "slug": "global-open-upm-registry-fetch-a-tarball",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 983,
@@ -231,6 +238,7 @@
     "timeMonth": 288,
     "timeYear": 819,
     "dailyMinutesDown": {
+      "2021-12-14": 1,
       "2021-07-20": 83,
       "2021-07-19": 7,
       "2021-07-16": 28,
