@@ -58,10 +58,10 @@
     "url": "https://openupm.com/packages/com.littlebigfun.addressable-importer/",
     "icon": "https://favicons.githubusercontent.com/openupm.com",
     "slug": "global-open-upm-website-package-detail",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 150,
@@ -69,7 +69,9 @@
     "timeWeek": 79,
     "timeMonth": 63,
     "timeYear": 153,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-24": 1
+    }
   },
   {
     "name": "[Global] OpenUPM API /site/info",
@@ -528,9 +530,9 @@
     "slug": "cn-open-upm-registry-all",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.70%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.71%",
     "uptimeYear": "99.91%",
     "time": 7149,
     "timeDay": 8369,
@@ -538,7 +540,6 @@
     "timeMonth": 8755,
     "timeYear": 7527,
     "dailyMinutesDown": {
-      "2022-01-24": 5,
       "2022-01-11": 127,
       "2021-09-24": 18,
       "2021-09-23": 15,
