@@ -4,19 +4,19 @@
     "url": "https://openupm.com",
     "icon": "https://favicons.githubusercontent.com/openupm.com",
     "slug": "global-open-upm-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 332,
-    "timeDay": 14146,
-    "timeWeek": 3616,
-    "timeMonth": 1084,
-    "timeYear": 356,
+    "time": 331,
+    "timeDay": 9458,
+    "timeWeek": 3224,
+    "timeMonth": 1052,
+    "timeYear": 355,
     "dailyMinutesDown": {
-      "2022-03-09": 2
+      "2022-03-09": 15
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://openupm.com/docs/",
     "icon": "https://favicons.githubusercontent.com/openupm.com",
     "slug": "global-open-upm-website-docs",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 168,
-    "timeDay": 1032,
-    "timeWeek": 279,
-    "timeMonth": 132,
-    "timeYear": 179,
+    "timeDay": 699,
+    "timeWeek": 252,
+    "timeMonth": 129,
+    "timeYear": 178,
     "dailyMinutesDown": {
-      "2022-03-09": 2
+      "2022-03-09": 15
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "https://openupm.com/packages/com.littlebigfun.addressable-importer/",
     "icon": "https://favicons.githubusercontent.com/openupm.com",
     "slug": "global-open-upm-website-package-detail",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.05%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 200,
-    "timeDay": 14005,
-    "timeWeek": 3518,
-    "timeMonth": 951,
+    "timeDay": 9340,
+    "timeWeek": 3128,
+    "timeMonth": 922,
     "timeYear": 225,
     "dailyMinutesDown": {
-      "2022-03-09": 1
+      "2022-03-09": 14
     }
   },
   {
