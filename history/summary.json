@@ -24,19 +24,19 @@
     "url": "https://openupm.com/docs/",
     "icon": "https://favicons.githubusercontent.com/openupm.com",
     "slug": "global-open-upm-website-docs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "98.95%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 168,
-    "timeDay": 699,
-    "timeWeek": 252,
-    "timeMonth": 129,
-    "timeYear": 178,
+    "time": 227,
+    "timeDay": 7526,
+    "timeWeek": 3027,
+    "timeMonth": 973,
+    "timeYear": 253,
     "dailyMinutesDown": {
-      "2022-03-09": 15
+      "2022-03-09": 16
     }
   },
   {
@@ -64,18 +64,16 @@
     "slug": "global-open-upm-website-package-detail",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 200,
     "timeDay": 9340,
     "timeWeek": 3128,
     "timeMonth": 922,
     "timeYear": 225,
-    "dailyMinutesDown": {
-      "2022-03-09": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "[Global] OpenUPM API /site/info",
