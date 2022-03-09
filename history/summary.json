@@ -24,19 +24,19 @@
     "url": "https://openupm.com/docs/",
     "icon": "https://favicons.githubusercontent.com/openupm.com",
     "slug": "global-open-upm-website-docs",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.90%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.56%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 227,
-    "timeDay": 7526,
-    "timeWeek": 3027,
-    "timeMonth": 973,
-    "timeYear": 253,
+    "timeDay": 6026,
+    "timeWeek": 2754,
+    "timeMonth": 945,
+    "timeYear": 252,
     "dailyMinutesDown": {
-      "2022-03-09": 16
+      "2022-03-09": 21
     }
   },
   {
