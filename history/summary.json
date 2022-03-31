@@ -13,7 +13,7 @@
     "time": 322,
     "timeDay": 112,
     "timeWeek": 97,
-    "timeMonth": 972,
+    "timeMonth": 991,
     "timeYear": 276,
     "dailyMinutesDown": {
       "2022-03-09": 15
@@ -33,7 +33,7 @@
     "time": 219,
     "timeDay": 19,
     "timeWeek": 27,
-    "timeMonth": 898,
+    "timeMonth": 914,
     "timeYear": 173,
     "dailyMinutesDown": {
       "2022-03-09": 15
@@ -53,7 +53,7 @@
     "time": 142,
     "timeDay": 20,
     "timeWeek": 24,
-    "timeMonth": 32,
+    "timeMonth": 29,
     "timeYear": 76,
     "dailyMinutesDown": {}
   },
@@ -71,7 +71,7 @@
     "time": 192,
     "timeDay": 14,
     "timeWeek": 15,
-    "timeMonth": 875,
+    "timeMonth": 894,
     "timeYear": 145,
     "dailyMinutesDown": {}
   },
@@ -275,10 +275,10 @@
     "url": "https://openupm.cn",
     "icon": "https://favicons.githubusercontent.com/openupm.cn",
     "slug": "cn-open-upm-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.82%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "99.47%",
     "uptimeYear": "99.80%",
     "time": 3198,
@@ -287,6 +287,7 @@
     "timeMonth": 3109,
     "timeYear": 3100,
     "dailyMinutesDown": {
+      "2022-03-31": 1,
       "2022-03-24": 18,
       "2022-03-21": 50,
       "2022-03-16": 132,
@@ -554,12 +555,12 @@
     "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.73%",
+    "uptimeMonth": "99.78%",
     "uptimeYear": "99.93%",
     "time": 7497,
     "timeDay": 10573,
     "timeWeek": 9528,
-    "timeMonth": 9792,
+    "timeMonth": 9344,
     "timeYear": 8255,
     "dailyMinutesDown": {
       "2022-03-16": 79,
