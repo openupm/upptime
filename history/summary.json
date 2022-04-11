@@ -257,19 +257,19 @@
     "url": "https://packages.unity.com/com.unity.addressables",
     "icon": "https://favicons.githubusercontent.com/packages.unity.com",
     "slug": "global-unity-registry-package-name",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "95.66%",
-    "uptimeWeek": "99.38%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "76.21%",
+    "uptimeWeek": "96.60%",
+    "uptimeMonth": "99.22%",
+    "uptimeYear": "99.93%",
     "time": 546,
-    "timeDay": 414,
-    "timeWeek": 550,
+    "timeDay": 467,
+    "timeWeek": 553,
     "timeMonth": 577,
     "timeYear": 558,
     "dailyMinutesDown": {
-      "2022-04-11": 62
+      "2022-04-11": 343
     }
   },
   {
@@ -448,9 +448,9 @@
     "slug": "cn-open-upm-api-packages-extra",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.77%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.78%",
     "uptimeYear": "99.94%",
     "time": 2227,
     "timeDay": 2427,
@@ -458,7 +458,6 @@
     "timeMonth": 2554,
     "timeYear": 2467,
     "dailyMinutesDown": {
-      "2022-04-11": 6,
       "2022-03-24": 16,
       "2022-03-16": 80,
       "2022-01-11": 104,
@@ -562,7 +561,7 @@
     "uptimeYear": "99.92%",
     "time": 7616,
     "timeDay": 9515,
-    "timeWeek": 9639,
+    "timeWeek": 9661,
     "timeMonth": 9461,
     "timeYear": 8350,
     "dailyMinutesDown": {
