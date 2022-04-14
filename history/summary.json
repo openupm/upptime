@@ -4,11 +4,11 @@
     "url": "https://openupm.com",
     "icon": "https://favicons.githubusercontent.com/openupm.com",
     "slug": "global-open-upm-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 316,
     "timeDay": 144,
@@ -16,7 +16,7 @@
     "timeMonth": 110,
     "timeYear": 269,
     "dailyMinutesDown": {
-      "2022-04-14": 7,
+      "2022-04-14": 1,
       "2022-03-09": 15
     }
   },
@@ -25,11 +25,11 @@
     "url": "https://openupm.com/docs/",
     "icon": "https://favicons.githubusercontent.com/openupm.com",
     "slug": "global-open-upm-website-docs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 215,
     "timeDay": 55,
@@ -37,7 +37,7 @@
     "timeMonth": 38,
     "timeYear": 169,
     "dailyMinutesDown": {
-      "2022-04-14": 7,
+      "2022-04-14": 1,
       "2022-03-09": 15
     }
   },
@@ -46,11 +46,11 @@
     "url": "https://openupm.com/packages/",
     "icon": "https://favicons.githubusercontent.com/openupm.com",
     "slug": "global-open-upm-website-packages",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 139,
     "timeDay": 49,
@@ -58,7 +58,7 @@
     "timeMonth": 37,
     "timeYear": 73,
     "dailyMinutesDown": {
-      "2022-04-14": 7
+      "2022-04-14": 1
     }
   },
   {
@@ -66,19 +66,19 @@
     "url": "https://openupm.com/packages/com.littlebigfun.addressable-importer/",
     "icon": "https://favicons.githubusercontent.com/openupm.com",
     "slug": "global-open-upm-website-package-detail",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 188,
+    "time": 189,
     "timeDay": 31,
     "timeWeek": 50,
     "timeMonth": 25,
     "timeYear": 142,
     "dailyMinutesDown": {
-      "2022-04-14": 7
+      "2022-04-14": 1
     }
   },
   {
