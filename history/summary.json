@@ -4,18 +4,19 @@
     "url": "https://openupm.com",
     "icon": "https://favicons.githubusercontent.com/openupm.com",
     "slug": "global-open-upm-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 318,
+    "time": 317,
     "timeDay": 210,
     "timeWeek": 149,
     "timeMonth": 111,
     "timeYear": 270,
     "dailyMinutesDown": {
+      "2022-04-14": 1,
       "2022-03-09": 15
     }
   },
@@ -24,10 +25,10 @@
     "url": "https://openupm.com/docs/",
     "icon": "https://favicons.githubusercontent.com/openupm.com",
     "slug": "global-open-upm-website-docs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 215,
@@ -36,6 +37,7 @@
     "timeMonth": 38,
     "timeYear": 169,
     "dailyMinutesDown": {
+      "2022-04-14": 1,
       "2022-03-09": 15
     }
   },
@@ -44,10 +46,10 @@
     "url": "https://openupm.com/packages/",
     "icon": "https://favicons.githubusercontent.com/openupm.com",
     "slug": "global-open-upm-website-packages",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 139,
@@ -55,17 +57,19 @@
     "timeWeek": 73,
     "timeMonth": 37,
     "timeYear": 74,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-14": 1
+    }
   },
   {
     "name": "[Global] OpenUPM Website Package Detail",
     "url": "https://openupm.com/packages/com.littlebigfun.addressable-importer/",
     "icon": "https://favicons.githubusercontent.com/openupm.com",
     "slug": "global-open-upm-website-package-detail",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 188,
@@ -73,7 +77,9 @@
     "timeWeek": 54,
     "timeMonth": 25,
     "timeYear": 142,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-14": 1
+    }
   },
   {
     "name": "[Global] OpenUPM API /site/info",
