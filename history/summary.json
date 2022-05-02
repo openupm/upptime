@@ -4,10 +4,10 @@
     "url": "https://openupm.com",
     "icon": "https://favicons.githubusercontent.com/openupm.com",
     "slug": "global-open-upm-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.99%",
     "time": 320,
@@ -16,6 +16,7 @@
     "timeMonth": 229,
     "timeYear": 270,
     "dailyMinutesDown": {
+      "2022-05-02": 1,
       "2022-04-19": 16,
       "2022-04-14": 46,
       "2022-03-09": 15
@@ -26,18 +27,19 @@
     "url": "https://openupm.com/docs/",
     "icon": "https://favicons.githubusercontent.com/openupm.com",
     "slug": "global-open-upm-website-docs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
-    "time": 216,
+    "time": 217,
     "timeDay": 16,
     "timeWeek": 61,
     "timeMonth": 99,
     "timeYear": 167,
     "dailyMinutesDown": {
+      "2022-05-02": 1,
       "2022-04-14": 46,
       "2022-03-09": 15
     }
@@ -47,10 +49,10 @@
     "url": "https://openupm.com/packages/",
     "icon": "https://favicons.githubusercontent.com/openupm.com",
     "slug": "global-open-upm-website-packages",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.99%",
     "time": 145,
@@ -59,6 +61,7 @@
     "timeMonth": 146,
     "timeYear": 78,
     "dailyMinutesDown": {
+      "2022-05-02": 1,
       "2022-04-18": 25,
       "2022-04-14": 46
     }
@@ -68,11 +71,11 @@
     "url": "https://openupm.com/packages/com.littlebigfun.addressable-importer/",
     "icon": "https://favicons.githubusercontent.com/openupm.com",
     "slug": "global-open-upm-website-package-detail",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
     "time": 189,
     "timeDay": 11,
@@ -80,6 +83,7 @@
     "timeMonth": 57,
     "timeYear": 139,
     "dailyMinutesDown": {
+      "2022-05-02": 1,
       "2022-04-14": 46
     }
   },
@@ -291,7 +295,7 @@
     "time": 3141,
     "timeDay": 2880,
     "timeWeek": 3154,
-    "timeMonth": 3103,
+    "timeMonth": 3099,
     "timeYear": 3118,
     "dailyMinutesDown": {
       "2022-04-29": 32,
