@@ -1,7 +1,7 @@
 url: https://openupm.com
-status: up
-code: 200
-responseTime: 217
-lastUpdated: 2022-12-08T05:34:55.339Z
+status: down
+code: 500
+responseTime: 3071
+lastUpdated: 2022-12-08T06:13:08.600Z
 startTime: Sun Dec 13 2020 06:48:33 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
