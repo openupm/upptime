@@ -1,7 +1,7 @@
 url: https://package.openupm.com/com.littlebigfun.addressable-importer
-status: up
-code: 200
-responseTime: 107
-lastUpdated: 2023-10-25T15:21:18.420Z
+status: down
+code: 502
+responseTime: 60
+lastUpdated: 2023-10-25T15:56:20.844Z
 startTime: 2020-12-13T06:48:45.000Z
 generator: Upptime <https://github.com/upptime/upptime>
