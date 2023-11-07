@@ -1,7 +1,7 @@
 url: https://packages.unity.com/com.unity.addressables
-status: up
-code: 200
-responseTime: 630
-lastUpdated: 2023-11-07T19:06:48.261Z
+status: down
+code: 502
+responseTime: 428
+lastUpdated: 2023-11-07T21:09:47.956Z
 startTime: 2020-12-13T06:49:08.000Z
 generator: Upptime <https://github.com/upptime/upptime>
