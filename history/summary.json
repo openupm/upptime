@@ -4,9 +4,9 @@
     "url": "https://openupm.com",
     "icon": "https://icons.duckduckgo.com/ip3/openupm.com.ico",
     "slug": "global-open-upm-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 122,
     "timeYear": 140,
     "dailyMinutesDown": {
+      "2023-12-24": 0,
       "2023-03-12": 17
     }
   },
@@ -24,9 +25,9 @@
     "url": "https://openupm.com/docs/",
     "icon": "https://icons.duckduckgo.com/ip3/openupm.com.ico",
     "slug": "global-open-upm-website-docs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -36,6 +37,7 @@
     "timeMonth": 51,
     "timeYear": 48,
     "dailyMinutesDown": {
+      "2023-12-24": 0,
       "2023-03-12": 17
     }
   },
@@ -235,7 +237,7 @@
     "time": 478,
     "timeDay": 126,
     "timeWeek": 188,
-    "timeMonth": 208,
+    "timeMonth": 203,
     "timeYear": 491,
     "dailyMinutesDown": {
       "2023-12-03": 57,
