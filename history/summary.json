@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 168,
-    "timeDay": 93,
-    "timeWeek": 121,
-    "timeMonth": 112,
+    "timeDay": 137,
+    "timeWeek": 113,
+    "timeMonth": 113,
     "timeYear": 137,
     "dailyMinutesDown": {
       "2023-03-12": 17
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 47,
-    "timeDay": 5,
-    "timeWeek": 30,
-    "timeMonth": 33,
+    "time": 46,
+    "timeDay": 16,
+    "timeWeek": 22,
+    "timeMonth": 28,
     "timeYear": 45,
     "dailyMinutesDown": {
       "2023-03-12": 17
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 44,
-    "timeDay": 6,
-    "timeWeek": 20,
-    "timeMonth": 20,
+    "timeDay": 10,
+    "timeWeek": 14,
+    "timeMonth": 18,
     "timeYear": 45,
     "dailyMinutesDown": {
       "2023-03-12": 17
@@ -71,9 +71,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 35,
-    "timeDay": 5,
-    "timeWeek": 22,
-    "timeMonth": 29,
+    "timeDay": 11,
+    "timeWeek": 14,
+    "timeMonth": 26,
     "timeYear": 34,
     "dailyMinutesDown": {
       "2023-03-12": 17
@@ -91,8 +91,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 228,
-    "timeDay": 31,
-    "timeWeek": 239,
+    "timeDay": 333,
+    "timeWeek": 252,
     "timeMonth": 209,
     "timeYear": 225,
     "dailyMinutesDown": {
@@ -111,9 +111,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 268,
-    "timeDay": 42,
-    "timeWeek": 273,
-    "timeMonth": 254,
+    "timeDay": 344,
+    "timeWeek": 274,
+    "timeMonth": 250,
     "timeYear": 270,
     "dailyMinutesDown": {
       "2023-08-09": 80
@@ -131,9 +131,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 47,
-    "timeDay": 6,
-    "timeWeek": 48,
-    "timeMonth": 42,
+    "timeDay": 68,
+    "timeWeek": 50,
+    "timeMonth": 41,
     "timeYear": 46,
     "dailyMinutesDown": {
       "2023-08-09": 79
@@ -151,9 +151,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 48,
-    "timeDay": 8,
-    "timeWeek": 54,
-    "timeMonth": 44,
+    "timeDay": 67,
+    "timeWeek": 55,
+    "timeMonth": 43,
     "timeYear": 47,
     "dailyMinutesDown": {
       "2023-08-09": 78
@@ -171,9 +171,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 51,
-    "timeDay": 13,
-    "timeWeek": 54,
-    "timeMonth": 47,
+    "timeDay": 72,
+    "timeWeek": 55,
+    "timeMonth": 46,
     "timeYear": 50,
     "dailyMinutesDown": {
       "2023-08-09": 77
@@ -190,11 +190,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 1840,
-    "timeDay": 1813,
-    "timeWeek": 2042,
-    "timeMonth": 2122,
-    "timeYear": 1903,
+    "time": 1841,
+    "timeDay": 2302,
+    "timeWeek": 2072,
+    "timeMonth": 2124,
+    "timeYear": 1905,
     "dailyMinutesDown": {
       "2023-10-25": 109,
       "2023-08-09": 76
@@ -212,8 +212,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 52,
-    "timeDay": 11,
-    "timeWeek": 72,
+    "timeDay": 69,
+    "timeWeek": 67,
     "timeMonth": 56,
     "timeYear": 52,
     "dailyMinutesDown": {
@@ -232,11 +232,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 683,
-    "timeDay": 460,
-    "timeWeek": 309,
-    "timeMonth": 307,
-    "timeYear": 765,
+    "time": 682,
+    "timeDay": 249,
+    "timeWeek": 305,
+    "timeMonth": 301,
+    "timeYear": 766,
     "dailyMinutesDown": {
       "2024-01-14": 115,
       "2023-12-03": 57,
@@ -256,11 +256,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 661,
-    "timeDay": 519,
-    "timeWeek": 436,
-    "timeMonth": 411,
-    "timeYear": 644,
+    "time": 660,
+    "timeDay": 309,
+    "timeWeek": 446,
+    "timeMonth": 409,
+    "timeYear": 643,
     "dailyMinutesDown": {
       "2023-11-13": 64,
       "2023-11-07": 55
