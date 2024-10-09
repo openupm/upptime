@@ -22,19 +22,19 @@
     "url": "https://openupm.com/docs/",
     "icon": "https://icons.duckduckgo.com/ip3/openupm.com.ico",
     "slug": "global-open-upm-website-docs",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 42,
-    "timeDay": 16,
-    "timeWeek": 31,
+    "timeDay": 23,
+    "timeWeek": 32,
     "timeMonth": 35,
     "timeYear": 39,
     "dailyMinutesDown": {
-      "2024-10-09": 0
+      "2024-10-09": 7
     }
   },
   {
