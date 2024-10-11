@@ -4,20 +4,18 @@
     "url": "https://openupm.com",
     "icon": "https://icons.duckduckgo.com/ip3/openupm.com.ico",
     "slug": "global-open-upm-website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 129,
-    "timeDay": 105,
-    "timeWeek": 130,
+    "time": 130,
+    "timeDay": 124,
+    "timeWeek": 126,
     "timeMonth": 135,
     "timeYear": 131,
-    "dailyMinutesDown": {
-      "2024-10-10": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "[Global] OpenUPM Website Docs",
@@ -26,18 +24,16 @@
     "slug": "global-open-upm-website-docs",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 42,
-    "timeDay": 85,
-    "timeWeek": 57,
-    "timeMonth": 44,
+    "timeDay": 107,
+    "timeWeek": 49,
+    "timeMonth": 43,
     "timeYear": 39,
-    "dailyMinutesDown": {
-      "2024-10-10": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "[Global] OpenUPM Website Packages",
@@ -46,18 +42,16 @@
     "slug": "global-open-upm-website-packages",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 37,
-    "timeDay": 54,
-    "timeWeek": 32,
-    "timeMonth": 32,
+    "timeDay": 48,
+    "timeWeek": 27,
+    "timeMonth": 31,
     "timeYear": 28,
-    "dailyMinutesDown": {
-      "2024-10-10": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "[Global] OpenUPM Website Package Detail",
@@ -66,18 +60,16 @@
     "slug": "global-open-upm-website-package-detail",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 31,
-    "timeDay": 37,
-    "timeWeek": 39,
-    "timeMonth": 31,
+    "timeDay": 31,
+    "timeWeek": 21,
+    "timeMonth": 30,
     "timeYear": 29,
-    "dailyMinutesDown": {
-      "2024-10-10": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "[Global] OpenUPM API /site/info",
@@ -91,10 +83,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 235,
-    "timeDay": 266,
-    "timeWeek": 259,
-    "timeMonth": 276,
-    "timeYear": 239,
+    "timeDay": 374,
+    "timeWeek": 270,
+    "timeMonth": 278,
+    "timeYear": 240,
     "dailyMinutesDown": {}
   },
   {
@@ -108,11 +100,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 269,
-    "timeDay": 284,
-    "timeWeek": 267,
-    "timeMonth": 290,
-    "timeYear": 271,
+    "time": 270,
+    "timeDay": 411,
+    "timeWeek": 284,
+    "timeMonth": 294,
+    "timeYear": 272,
     "dailyMinutesDown": {}
   },
   {
@@ -127,8 +119,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 47,
-    "timeDay": 55,
-    "timeWeek": 47,
+    "timeDay": 69,
+    "timeWeek": 49,
     "timeMonth": 51,
     "timeYear": 47,
     "dailyMinutesDown": {}
@@ -145,9 +137,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 48,
-    "timeDay": 56,
-    "timeWeek": 47,
-    "timeMonth": 51,
+    "timeDay": 68,
+    "timeWeek": 49,
+    "timeMonth": 52,
     "timeYear": 48,
     "dailyMinutesDown": {}
   },
@@ -163,9 +155,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 51,
-    "timeDay": 60,
-    "timeWeek": 51,
-    "timeMonth": 55,
+    "timeDay": 71,
+    "timeWeek": 53,
+    "timeMonth": 56,
     "timeYear": 52,
     "dailyMinutesDown": {}
   },
@@ -180,11 +172,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 2092,
-    "timeDay": 2266,
-    "timeWeek": 2300,
-    "timeMonth": 2198,
-    "timeYear": 2151,
+    "time": 2094,
+    "timeDay": 2709,
+    "timeWeek": 2377,
+    "timeMonth": 2218,
+    "timeYear": 2153,
     "dailyMinutesDown": {
       "2023-10-25": 109
     }
@@ -201,9 +193,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 54,
-    "timeDay": 59,
-    "timeWeek": 51,
-    "timeMonth": 55,
+    "timeDay": 77,
+    "timeWeek": 53,
+    "timeMonth": 56,
     "timeYear": 54,
     "dailyMinutesDown": {
       "2023-10-25": 122
@@ -221,9 +213,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.93%",
     "time": 560,
-    "timeDay": 181,
-    "timeWeek": 214,
-    "timeMonth": 197,
+    "timeDay": 197,
+    "timeWeek": 184,
+    "timeMonth": 194,
     "timeYear": 649,
     "dailyMinutesDown": {
       "2024-09-18": 18,
@@ -244,11 +236,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 448,
-    "timeDay": 205,
-    "timeWeek": 249,
+    "time": 447,
+    "timeDay": 263,
+    "timeWeek": 256,
     "timeMonth": 276,
-    "timeYear": 385,
+    "timeYear": 384,
     "dailyMinutesDown": {
       "2024-04-15": 15,
       "2023-11-13": 64,
