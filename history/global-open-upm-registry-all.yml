@@ -1,7 +1,7 @@
 url: https://package.openupm.com/-/all
-status: up
-code: 200
-responseTime: 2271
-lastUpdated: 2024-11-28T23:18:30.252Z
+status: down
+code: 502
+responseTime: 258
+lastUpdated: 2024-11-29T03:55:58.967Z
 startTime: 2020-12-13T06:48:44.000Z
 generator: Upptime <https://github.com/upptime/upptime>
