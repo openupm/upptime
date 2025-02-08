@@ -1,7 +1,7 @@
 url: https://api.openupm.com/site/info
-status: down
-code: 502
-responseTime: 15872
-lastUpdated: 2025-02-08T20:48:28.800Z
+status: up
+code: 200
+responseTime: 2785
+lastUpdated: 2025-02-08T20:55:03.020Z
 startTime: 2020-12-13T06:48:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
