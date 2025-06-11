@@ -244,18 +244,19 @@
     "url": "https://unitynuget-registry.openupm.com/org.nuget.akka",
     "icon": "https://icons.duckduckgo.com/ip3/unitynuget-registry.openupm.com.ico",
     "slug": "other-unity-nu-get-registry",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "98.79%",
-    "uptimeWeek": "99.59%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.58%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.97%",
     "time": 305,
-    "timeDay": 259,
+    "timeDay": 96,
     "timeWeek": 275,
     "timeMonth": 324,
     "timeYear": 305,
     "dailyMinutesDown": {
+      "2025-06-11": 1,
       "2025-06-10": 17,
       "2025-06-05": 24
     }
