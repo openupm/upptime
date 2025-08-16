@@ -226,10 +226,10 @@
     "url": "https://packages.unity.com/com.unity.addressables",
     "icon": "https://icons.duckduckgo.com/ip3/packages.unity.com.ico",
     "slug": "global-unity-registry-package-name",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 231,
@@ -237,7 +237,9 @@
     "timeWeek": 264,
     "timeMonth": 264,
     "timeYear": 231,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-16": 1
+    }
   },
   {
     "name": "[Other] UnityNuGet registry",
@@ -245,15 +247,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/unitynuget-registry.openupm.com.ico",
     "slug": "other-unity-nu-get-registry",
     "status": "up",
-    "uptime": "97.92%",
-    "uptimeDay": "98.28%",
+    "uptime": "97.93%",
+    "uptimeDay": "98.29%",
     "uptimeWeek": "98.42%",
-    "uptimeMonth": "97.70%",
-    "uptimeYear": "97.92%",
+    "uptimeMonth": "97.92%",
+    "uptimeYear": "97.93%",
     "time": 343,
     "timeDay": 525,
     "timeWeek": 376,
-    "timeMonth": 422,
+    "timeMonth": 423,
     "timeYear": 343,
     "dailyMinutesDown": {
       "2025-08-15": 25,
