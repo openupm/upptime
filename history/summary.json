@@ -226,19 +226,19 @@
     "url": "https://packages.unity.com/com.unity.addressables",
     "icon": "https://icons.duckduckgo.com/ip3/packages.unity.com.ico",
     "slug": "global-unity-registry-package-name",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 231,
-    "timeDay": 314,
-    "timeWeek": 264,
+    "time": 230,
+    "timeDay": 294,
+    "timeWeek": 265,
     "timeMonth": 264,
     "timeYear": 231,
     "dailyMinutesDown": {
-      "2025-08-16": 1
+      "2025-08-16": 21
     }
   },
   {
@@ -248,7 +248,7 @@
     "slug": "other-unity-nu-get-registry",
     "status": "up",
     "uptime": "97.93%",
-    "uptimeDay": "98.29%",
+    "uptimeDay": "99.76%",
     "uptimeWeek": "98.42%",
     "uptimeMonth": "97.92%",
     "uptimeYear": "97.93%",
