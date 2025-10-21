@@ -1,7 +1,7 @@
 url: https://unitynuget-registry.openupm.com/org.nuget.akka
-status: down
-code: 502
-responseTime: 207
-lastUpdated: 2025-10-21T06:47:27.136Z
+status: up
+code: 200
+responseTime: 279
+lastUpdated: 2025-10-21T07:14:23.719Z
 startTime: 2025-03-07T15:16:52.265Z
 generator: Upptime <https://github.com/upptime/upptime>
